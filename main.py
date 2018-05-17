@@ -1,6 +1,4 @@
-import plotly as py
 import plotly.graph_objs as go
-
 import pandas_datareader as web
 from datetime import datetime
 
